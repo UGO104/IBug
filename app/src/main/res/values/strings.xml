@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IBug</string>
+    <string name="appDir">appDir</string>
+    <string name="end_call">com.ugo.call.CallEnded</string>
+    <string name="network_io_exception">Network IO Error. Check your network settings and try again later.</string>
+</resources>
