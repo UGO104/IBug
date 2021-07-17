@@ -1,4 +1,4 @@
 # IBug
-start project version control
+Work in progress
 
-#ReadMe
+IBug is an android project writing in Java. It enables users to remotely monitor their android devices i.e sms, voice calls and whatsapp message. 
